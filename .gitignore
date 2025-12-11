@@ -1,0 +1,18 @@
+# Python junk
+__pycache__/
+*.py[cod]
+.venv/
+
+# Mac junk
+.DS_Store
+
+# Private Data (CRITICAL)
+completed_timesheets/
+Timesheet_*.xlsx
+frontend/app/constants.ts
+config.json
+
+# Node junk
+node_modules/
+frontend/node_modules/
+frontend/.next/
