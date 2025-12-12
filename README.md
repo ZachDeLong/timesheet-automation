@@ -1,6 +1,6 @@
 # TimeTrack: Enterprise Timesheet Automation
 
-A full-stack automated "Cheat Sheet" generator designed to bridge the gap between daily productivity tracking and legacy Enterprise Project Management (PPM) systems.
+A full-stack automated timesheet generator designed to bridge the gap between daily productivity tracking and legacy Enterprise Project Management (PPM) systems.
 
 ## Problem
 Corporate PPM systems often require manual entry of project hours at the end of the week. This leads to:
