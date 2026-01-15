@@ -1,6 +1,6 @@
-# TimeTrack: Enterprise Timesheet Automation
+# TimeTrack
 
-An automated timesheet generator designed to aid users with managing legacy Enterprise Project Management (PPM) systems.
+About: TimeTrack is an automated timesheet generator that's designed to aid users with managing legacy Enterprise Project Management (PPM) systems.
 
 ## Problem
 Corporate PPM systems often require manual entry of project hours at the end of the week. This can lead to:
