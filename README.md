@@ -1,20 +1,15 @@
 # TimeTrack: Enterprise Timesheet Automation
 
-A full-stack automated timesheet generator designed to bridge the gap between daily productivity tracking and legacy Enterprise Project Management (PPM) systems.
+An automated timesheet generator designed to aid users with managing legacy Enterprise Project Management (PPM) systems.
 
 ## Problem
-Corporate PPM systems often require manual entry of project hours at the end of the week. This leads to:
-* Inaccurate data recall
+Corporate PPM systems often require manual entry of project hours at the end of the week. This can lead to:
+* Inaccurate data
 * Time wasted
 * Frustration
 
 ## Solution
-**TimeTrack** is a dashboard that allows for real-time tracking and one-click export to a formatted Excel file that matches the corporate system's schema.
-
-### Features
-* **Smart Parsing:** Maps complex Project IDs to human-readable task descriptions.
-* **Excel Engine:** Python-based engine (`openpyxl`) generates formatting and timestamped spreadsheets.
-* **Local Persistence:** Browser-based storage (`localStorage`) for custom user-defined categories and tasks.
+**TimeTrack** allows for real-time tracking and exports to a formatted Excel file that matches the corporate system's format.
 
 ## Stack
 * **Frontend:** Next.js 14, React, TypeScript, Tailwind CSS
